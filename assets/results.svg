@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="408.28616mm"
-   height="329.08994mm"
-   viewBox="0 0 1446.6833 1166.0667"
+   width="1406.3369"
+   height="1171.6865"
+   viewBox="0 0 1406.337 1171.6866"
    id="svg9793"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="results.svg"
-   inkscape:export-filename="/Users/bebatut/Documents/These/LIRIS/jobim_2016_aevol_env_variation/assets/results.png"
+   inkscape:export-filename="/Users/cidam/Documents/Post_doc/Com/jobim_2016_aevol_env_variation/assets/results.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="266.913"
-     inkscape:cy="554.46186"
+     inkscape:cx="975.80151"
+     inkscape:cy="-247.84496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,11 +38,11 @@
      fit-margin-right="5"
      fit-margin-bottom="5"
      fit-margin-left="5"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
+     inkscape:window-width="1273"
+     inkscape:window-height="1391"
      inkscape:window-x="0"
      inkscape:window-y="1"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata9798">
     <rdf:RDF>
@@ -59,781 +59,836 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(466.19871,79.242587)">
+     transform="translate(1175.0873,887.16936)">
     <g
-       id="g17461"
-       transform="translate(-1818.826,2009.0489)">
-      <g
-         id="g18076"
-         transform="translate(41.11469,0)">
-        <rect
-           style="fill:#969696;fill-opacity:0.19607843;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect15181"
-           width="394.62512"
-           height="1058.6462"
-           x="1663.3506"
-           y="-2070.575"
-           rx="23.0569"
-           ry="24.6675" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot12826"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-89.335858,-2601.2459)"><flowRegion
-             id="flowRegion12828"><rect
-               id="rect12830"
-               width="585.07202"
-               height="130.61574"
-               x="1854.5269"
-               y="1586.6454"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara12834">Tau</flowPara><flowPara
-             id="flowPara16377">Inverse of variation speed</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot12826-4-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-558.37575,-2904.6532)"><flowRegion
-             id="flowRegion12828-4-0"><rect
-               id="rect12830-0-2"
-               width="224.52956"
-               height="182.43021"
-               x="1854.5269"
-               y="1586.6454"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara12834-8-2">Proportion of </flowPara><flowPara
-             id="flowPara13050">non-coding bases</flowPara></flowRoot>        <g
-           transform="translate(-118.53541,0)"
-           id="g17360">
-          <path
-             id="path12011"
-             d="m 1722.7234,-1235.114 76.2071,-148.2286 12.9486,0 11.589,-14.0588 10.4787,0 41.1967,-21.8481 24.5316,-11.488 76.2131,12.6279 24.5316,1.5258 20.0492,6.5426 56.1638,4.8208 44.5808,-2.5707 31.6322,10.5441 76.2071,18.9211 176.9576,72.2115 100.7447,3.4375 51.6755,5.2543 24.5316,-2.826 20.0492,27.3041 31.6322,16.2258"
-             style="fill:none;stroke:#4fb37a;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12013"
-             d="m 1823.4681,-1055.1226 835.7072,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12015"
-             d="m 1823.4681,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12017"
-             d="m 1899.6751,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12019"
-             d="m 2076.6328,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12021"
-             d="m 2152.8458,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12023"
-             d="m 2329.7975,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12025"
-             d="m 2406.0105,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12027"
-             d="m 2582.9623,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12029"
-             d="m 2659.1753,-1055.1226 0,10.9478"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12095"
-             d="m 1686.2466,-1071.3305 0,-405.2999"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12097"
-             d="m 1686.2466,-1071.3305 -10.9478,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12099"
-             d="m 1686.2466,-1152.3941 -10.9478,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12101"
-             d="m 1686.2466,-1233.4517 -10.9478,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12103"
-             d="m 1686.2466,-1314.5093 -10.9478,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12105"
-             d="m 1686.2466,-1395.5728 -10.9478,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12107"
-             d="m 1686.2466,-1476.6304 -10.9478,0"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12157"
-             d="m 1686.2466,-1055.1226 984.8739,0 0,-437.7217 -984.8739,0 0,437.7217"
-             style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12283"
-             d="m 1722.7234,-1138.3472 76.2071,10.6213 12.9486,0 11.589,-6.4832 10.4787,0 41.1967,-2.8794 24.5316,-1.3715 76.2131,4.6546 24.5316,-1.2586 20.0492,-0.5581 56.1638,-4.1262 44.5808,1.8227 31.6322,4.5121 76.2071,-13.6907 176.9576,7.3678 100.7447,6.3347 51.6755,-3.1703 24.5316,-1.3655 20.0492,-1.2527 31.6322,3.7344"
-             style="fill:none;stroke:#7d61b8;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12285"
-             d="m 1722.7234,-1133.4848 76.2071,5.2958 12.9486,0 11.589,-8.4839 10.4787,0 41.1967,-3.5444 24.5316,-2.9804 76.2131,5.9667 24.5316,1.1399 20.0492,-6.7563 56.1638,3.6216 44.5808,-8.3771 31.6322,13.9341 76.2071,-4.0312 176.9576,-1.6505 100.7447,-5.8064 51.6755,5.6045 24.5316,0.8965 20.0492,-6.9166 31.6322,8.3593"
-             style="fill:none;stroke:#97a33f;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12287"
-             d="m 1722.7234,-1133.3542 76.2071,-9.6001 12.9486,0 11.589,7.2788 10.4787,0 41.1967,-2.0958 24.5316,-8.478 76.2131,1.3121 24.5316,-2.1551 20.0492,-4.2153 56.1638,-3.8828 44.5808,-10.17 31.6322,-4.6724 76.2071,-4.049 176.9576,22.3764 100.7447,-16.7007 51.6755,7.4687 24.5316,18.6421 20.0492,-18.3927 31.6322,11.304"
-             style="fill:none;stroke:#b84a73;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12289"
-             d="m 1722.7234,-1142.7999 76.2071,-29.9402 12.9486,0 11.589,-15.6974 10.4787,0 41.1967,-65.194 24.5316,-2.6894 76.2131,-64.1194 24.5316,18.939 20.0492,-20.4589 56.1638,15.6796 44.5808,-2.9744 31.6322,13.4235 76.2071,-18.9805 176.9576,86.3474 100.7447,-6.9819 51.6755,1.3774 24.5316,2.7726 20.0492,5.4442 31.6322,23.1186"
-             style="fill:none;stroke:#b86335;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12291"
-             d="m 1722.7234,-1254.4804 76.2071,-165.3865 12.9486,0 11.589,-1.2883 10.4787,0 41.1967,-18.9331 24.5316,-2.1967 76.2131,4.0253 24.5316,13.0495 20.0492,-1.5614 56.1638,6.0082 44.5808,1.6089 31.6322,3.2891 76.2071,25.8852 176.9576,21.2663 100.7447,47.0862 51.6755,8.3177 24.5316,-25.9921 20.0492,54.9883 31.6322,-6.3882"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12293"
-             d="m 1722.7234,-1215.7476 76.2071,-131.0707 12.9486,0 11.589,-26.8292 10.4787,0 41.1967,-24.7632 24.5316,-20.7853 76.2131,21.2365 24.5316,-9.9919 20.0492,14.6465 56.1638,3.6275 44.5808,-6.7503 31.6322,17.805 76.2071,11.9511 176.9576,123.1508 100.7447,-40.2052 51.6755,2.1907 24.5316,20.3342 20.0492,-0.38 31.6322,38.8516"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12295"
-             d="m 1722.7234,-1254.4804 76.2071,-165.3865 12.9486,0 11.589,-1.2883 10.4787,0 41.1967,-18.9331 24.5316,-2.1967 76.2131,4.0253 24.5316,13.0495 20.0492,-1.5614 56.1638,6.0082 44.5808,1.6089 31.6322,3.2891 76.2071,25.8852 176.9576,21.2663 100.7447,47.0862 51.6755,8.3177 24.5316,-25.9921 20.0492,54.9883 31.6322,-6.3882 0,67.9725 -31.6322,-38.8516 -20.0492,0.38 -24.5316,-20.3342 -51.6755,-2.1907 -100.7447,40.2052 -176.9576,-123.1508 -76.2071,-11.9511 -31.6322,-17.805 -44.5808,6.7503 -56.1638,-3.6275 -20.0492,-14.6465 -24.5316,9.9919 -76.2131,-21.2365 -24.5316,20.7853 -41.1967,24.7632 -10.4787,0 -11.589,26.8292 -12.9486,0 -76.2071,131.0707 z m 0,0"
-             style="fill:#4fb37a;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12297"
-             d="m 1722.7234,-1144.3851 76.2071,11.2506 12.9486,0 11.589,-5.0049 10.4787,0 41.1967,-6.2872 24.5316,1.2646 76.2131,-0.5641 24.5316,1.508 20.0492,-0.3978 56.1638,-4.518 44.5808,2.2026 31.6322,4.334 76.2071,-17.9237 176.9576,8.6798 100.7447,6.9938 51.6755,-1.7811 24.5316,-5.4858 20.0492,4.5656 31.6322,-1.6208"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12299"
-             d="m 1722.7234,-1132.3152 76.2071,9.9979 12.9486,0 11.589,-7.9615 10.4787,0 41.1967,0.5284 24.5316,-4.0134 76.2131,9.8732 24.5316,-4.0194 20.0492,-0.7124 56.1638,-3.7343 44.5808,1.4367 31.6322,4.6843 76.2071,-9.4517 176.9576,6.0557 100.7447,5.6758 51.6755,-4.5596 24.5316,2.7607 20.0492,-7.071 31.6322,9.0777"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12301"
-             d="m 1722.7234,-1144.3851 76.2071,11.2506 12.9486,0 11.589,-5.0049 10.4787,0 41.1967,-6.2872 24.5316,1.2646 76.2131,-0.5641 24.5316,1.508 20.0492,-0.3978 56.1638,-4.518 44.5808,2.2026 31.6322,4.334 76.2071,-17.9237 176.9576,8.6798 100.7447,6.9938 51.6755,-1.7811 24.5316,-5.4858 20.0492,4.5656 31.6322,-1.6208 0,23.4214 -31.6322,-9.0777 -20.0492,7.071 -24.5316,-2.7607 -51.6755,4.5596 -100.7447,-5.6758 -176.9576,-6.0557 -76.2071,9.4517 -31.6322,-4.6843 -44.5808,-1.4367 -56.1638,3.7343 -20.0492,0.7124 -24.5316,4.0194 -76.2131,-9.8732 -24.5316,4.0134 -41.1967,-0.5284 -10.4787,0 -11.589,7.9615 -12.9486,0 -76.2071,-9.9979 z m 0,0"
-             style="fill:#7d61b8;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12303"
-             d="m 1722.7234,-1141.7372 76.2071,0.8015 12.9486,0 11.589,-5.2958 10.4787,0 41.1967,-2.5885 24.5316,-7.7834 76.2131,9.048 24.5316,2.7369 20.0492,-7.2668 56.1638,6.4832 44.5808,-12.5152 31.6322,16.8373 76.2071,-9.7901 176.9576,-1.6386 100.7447,0.7421 51.6755,-3.5206 24.5316,7.3143 20.0492,-7.8843 31.6322,9.3567"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12305"
-             d="m 1722.7234,-1125.2324 76.2071,9.7901 12.9486,0 11.589,-11.6662 10.4787,0 41.1967,-4.5061 24.5316,1.8226 76.2131,2.8854 24.5316,-0.4631 20.0492,-6.2398 56.1638,0.76 44.5808,-4.2331 31.6322,11.025 76.2071,1.7336 176.9576,-1.6624 100.7447,-12.3608 51.6755,14.7297 24.5316,-5.5214 20.0492,-5.9429 31.6322,7.3618"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12307"
-             d="m 1722.7234,-1141.7372 76.2071,0.8015 12.9486,0 11.589,-5.2958 10.4787,0 41.1967,-2.5885 24.5316,-7.7834 76.2131,9.048 24.5316,2.7369 20.0492,-7.2668 56.1638,6.4832 44.5808,-12.5152 31.6322,16.8373 76.2071,-9.7901 176.9576,-1.6386 100.7447,0.7421 51.6755,-3.5206 24.5316,7.3143 20.0492,-7.8843 31.6322,9.3567 0,18.9805 -31.6322,-7.3618 -20.0492,5.9429 -24.5316,5.5214 -51.6755,-14.7297 -100.7447,12.3608 -176.9576,1.6624 -76.2071,-1.7336 -31.6322,-11.025 -44.5808,4.2331 -56.1638,-0.76 -20.0492,6.2398 -24.5316,0.4631 -76.2131,-2.8854 -24.5316,-1.8226 -41.1967,4.5061 -10.4787,0 -11.589,11.6662 -12.9486,0 -76.2071,-9.7901 z m 0,0"
-             style="fill:#97a33f;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12309"
-             d="m 1722.7234,-1137.4447 76.2071,-23.3917 12.9486,0 11.589,16.107 10.4787,0 41.1967,3.2356 24.5316,-20.1501 76.2131,6.7326 24.5316,-9.7189 20.0492,5.6164 56.1638,-8.6146 44.5808,-15.9289 31.6322,-0.469 76.2071,-6.3704 176.9576,22.5368 100.7447,-17.3182 51.6755,11.7374 24.5316,13.6314 20.0492,-13.3583 31.6322,13.6789"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12311"
-             d="m 1722.7234,-1129.2636 76.2071,4.1915 12.9486,0 11.589,-1.5495 10.4787,0 41.1967,-7.4272 24.5316,3.1941 76.2131,-4.1025 24.5316,5.4027 20.0492,-14.0469 56.1638,0.8431 44.5808,-4.3993 31.6322,-8.8877 76.2071,-1.7217 176.9576,22.2102 100.7447,-16.0714 51.6755,3.1941 24.5316,23.6529 20.0492,-23.4213 31.6322,8.9292"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12313"
-             d="m 1722.7234,-1137.4447 76.2071,-23.3917 12.9486,0 11.589,16.107 10.4787,0 41.1967,3.2356 24.5316,-20.1501 76.2131,6.7326 24.5316,-9.7189 20.0492,5.6164 56.1638,-8.6146 44.5808,-15.9289 31.6322,-0.469 76.2071,-6.3704 176.9576,22.5368 100.7447,-17.3182 51.6755,11.7374 24.5316,13.6314 20.0492,-13.3583 31.6322,13.6789 0,20.2154 -31.6322,-8.9292 -20.0492,23.4213 -24.5316,-23.6529 -51.6755,-3.1941 -100.7447,16.0714 -176.9576,-22.2102 -76.2071,1.7217 -31.6322,8.8877 -44.5808,4.3993 -56.1638,-0.8431 -20.0492,14.0469 -24.5316,-5.4027 -76.2131,4.1025 -24.5316,-3.1941 -41.1967,7.4272 -10.4787,0 -11.589,1.5495 -12.9486,0 -76.2071,-4.1915 z m 0,0"
-             style="fill:#b84a73;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12315"
-             d="m 1722.7234,-1149.8708 76.2071,-32.5466 12.9486,0 11.589,-31.0266 10.4787,0 41.1967,-69.8961 24.5316,-9.3033 76.2131,-57.8499 24.5316,26.9836 20.0492,-27.5239 56.1638,18.9212 44.5808,10.5085 31.6322,10.6746 76.2071,-17.9593 176.9576,56.0866 100.7447,21.5275 51.6755,2.3451 24.5316,-0.653 20.0492,5.5807 31.6322,33.9477"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12317"
-             d="m 1722.7234,-1135.7349 76.2071,-27.3279 12.9486,0 11.589,-0.3622 10.4787,0 41.1967,-60.4919 24.5316,3.9184 76.2131,-70.3829 24.5316,10.8944 20.0492,-13.4057 56.1638,12.4439 44.5808,-16.4632 31.6322,16.1723 76.2071,-19.9958 176.9576,116.6083 100.7447,-35.4972 51.6755,0.4156 24.5316,6.1982 20.0492,5.3136 31.6322,12.2895"
-             style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12319"
-             d="m 1722.7234,-1149.8708 76.2071,-32.5466 12.9486,0 11.589,-31.0266 10.4787,0 41.1967,-69.8961 24.5316,-9.3033 76.2131,-57.8499 24.5316,26.9836 20.0492,-27.5239 56.1638,18.9212 44.5808,10.5085 31.6322,10.6746 76.2071,-17.9593 176.9576,56.0866 100.7447,21.5275 51.6755,2.3451 24.5316,-0.653 20.0492,5.5807 31.6322,33.9477 0,14.6465 -31.6322,-12.2895 -20.0492,-5.3136 -24.5316,-6.1982 -51.6755,-0.4156 -100.7447,35.4972 -176.9576,-116.6083 -76.2071,19.9958 -31.6322,-16.1723 -44.5808,16.4632 -56.1638,-12.4439 -20.0492,13.4057 -24.5316,-10.8944 -76.2131,70.3829 -24.5316,-3.9184 -41.1967,60.4919 -10.4787,0 -11.589,0.3622 -12.9486,0 -76.2071,27.3279 z m 0,0"
-             style="fill:#b86335;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12321"
-             d="m 1722.7234,-1235.114 76.2071,-148.2286 12.9486,0 11.589,-14.0588 10.4787,0 41.1967,-21.8481 24.5316,-11.488 76.2131,12.6279 24.5316,1.5258 20.0492,6.5426 56.1638,4.8208 44.5808,-2.5707 31.6322,10.5441 76.2071,18.9211 176.9576,72.2115 100.7447,3.4375 51.6755,5.2543 24.5316,-2.826 20.0492,27.3041 31.6322,16.2258"
-             style="fill:none;stroke:#4fb37a;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12323"
-             d="m 1722.7234,-1138.3472 76.2071,10.6213 12.9486,0 11.589,-6.4832 10.4787,0 41.1967,-2.8794 24.5316,-1.3715 76.2131,4.6546 24.5316,-1.2586 20.0492,-0.5581 56.1638,-4.1262 44.5808,1.8227 31.6322,4.5121 76.2071,-13.6907 176.9576,7.3678 100.7447,6.3347 51.6755,-3.1703 24.5316,-1.3655 20.0492,-1.2527 31.6322,3.7344"
-             style="fill:none;stroke:#7d61b8;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12325"
-             d="m 1722.7234,-1133.4848 76.2071,5.2958 12.9486,0 11.589,-8.4839 10.4787,0 41.1967,-3.5444 24.5316,-2.9804 76.2131,5.9667 24.5316,1.1399 20.0492,-6.7563 56.1638,3.6216 44.5808,-8.3771 31.6322,13.9341 76.2071,-4.0312 176.9576,-1.6505 100.7447,-5.8064 51.6755,5.6045 24.5316,0.8965 20.0492,-6.9166 31.6322,8.3593"
-             style="fill:none;stroke:#97a33f;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12327"
-             d="m 1722.7234,-1133.3542 76.2071,-9.6001 12.9486,0 11.589,7.2788 10.4787,0 41.1967,-2.0958 24.5316,-8.478 76.2131,1.3121 24.5316,-2.1551 20.0492,-4.2153 56.1638,-3.8828 44.5808,-10.17 31.6322,-4.6724 76.2071,-4.049 176.9576,22.3764 100.7447,-16.7007 51.6755,7.4687 24.5316,18.6421 20.0492,-18.3927 31.6322,11.304"
-             style="fill:none;stroke:#b84a73;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12329"
-             d="m 1722.7234,-1142.7999 76.2071,-29.9402 12.9486,0 11.589,-15.6974 10.4787,0 41.1967,-65.194 24.5316,-2.6894 76.2131,-64.1194 24.5316,18.939 20.0492,-20.4589 56.1638,15.6796 44.5808,-2.9744 31.6322,13.4235 76.2071,-18.9805 176.9576,86.3474 100.7447,-6.9819 51.6755,1.3774 24.5316,2.7726 20.0492,5.4442 31.6322,23.1186"
-             style="fill:none;stroke:#b86335;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <g
-             transform="translate(95.884707,565.92595)"
-             id="g13354-1">
-            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-6"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(87.278009,-3185.4577)"><flowRegion
-                 id="flowRegion13236-15"><rect
-                   id="rect13238-4"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13240-3">5</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(158.1884,-3182.8989)"><flowRegion
-                 id="flowRegion13236-1-1"><rect
-                   id="rect13238-9-9"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-6">10</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-7-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(335.53274,-3183.6025)"><flowRegion
-                 id="flowRegion13236-1-4-7"><rect
-                   id="rect13238-9-3-0"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-3-0">50</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-8-4"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(404.61871,-3182.523)"><flowRegion
-                 id="flowRegion13236-1-7-8"><rect
-                   id="rect13238-9-4-5"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-5-2">100</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-4-0"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(581.27075,-3183.0627)"><flowRegion
-                 id="flowRegion13236-1-74-4"><rect
-                   id="rect13238-9-37-7"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-4-9">500</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-1-4"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(653.0554,-3182.523)"><flowRegion
-                 id="flowRegion13236-1-41-9"><rect
-                   id="rect13238-9-7-0"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-2-2">1000</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-14-2"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(829.1677,-3182.5229)"><flowRegion
-                 id="flowRegion13236-1-8-5"><rect
-                   id="rect13238-9-1-4"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-7-2">5000</flowPara></flowRoot>            <flowRoot
-               xml:space="preserve"
-               id="flowRoot13234-0-0-1"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(901.68411,-3182.523)"><flowRegion
-                 id="flowRegion13236-1-72-7"><rect
-                   id="rect13238-9-11-2"
-                   width="338.95309"
-                   height="131.69516"
-                   x="1635.3948"
-                   y="1568.2944"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'" /></flowRegion><flowPara
-                 id="flowPara13266-21-1">10000</flowPara></flowRoot>          </g>
-          <flowRoot
-             transform="translate(177.90375,-2494.6554)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-15"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-81"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-9" /></flowRegion><flowPara
-               id="flowPara13607-1">1</flowPara></flowRoot>          <flowRoot
-             transform="translate(179.22447,-2089.719)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-15-4"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-81-8"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-9-0" /></flowRegion><flowPara
-               id="flowPara13607-1-6">0</flowPara></flowRoot>          <flowRoot
-             transform="translate(163.71861,-2171.1725)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-15-4-7"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-81-8-3"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-9-0-1" /></flowRegion><flowPara
-               id="flowPara13607-1-6-3">0.2</flowPara></flowRoot>          <flowRoot
-             transform="translate(163.25254,-2251.7518)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-15-4-7-1"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-81-8-3-3"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-9-0-1-9" /></flowRegion><flowPara
-               id="flowPara13607-1-6-3-7">0.4</flowPara></flowRoot>          <flowRoot
-             transform="translate(163.55834,-2332.0972)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-15-4-7-1-5"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-81-8-3-3-5"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-9-0-1-9-7" /></flowRegion><flowPara
-               id="flowPara13607-1-6-3-7-1">0.6</flowPara></flowRoot>          <flowRoot
-             transform="translate(163.75477,-2412.556)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-15-4-7-1-5-3"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-81-8-3-3-5-5"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-9-0-1-9-7-1" /></flowRegion><flowPara
-               id="flowPara13607-1-6-3-7-1-1">0.8</flowPara></flowRoot>        </g>
+       id="g24629"
+       transform="translate(-2545.3891,1254.3094)">
+      <rect
+         style="fill:#969696;fill-opacity:0.19607843;stroke:none"
+         id="rect15181"
+         width="394.62512"
+         height="1058.6462"
+         x="1709.5063"
+         y="-2136.4788"
+         rx="23.0569"
+         ry="24.6675" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12826"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Italic"
+         transform="translate(-43.180138,-2667.1496)"><flowRegion
+           id="flowRegion12828"><rect
+             id="rect12830"
+             width="585.07202"
+             height="130.61574"
+             x="1854.5269"
+             y="1586.6454"
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Italic" /></flowRegion><flowPara
+           id="flowPara16377">tau</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12826-4-0"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         transform="translate(-512.22003,-2970.5569)"><flowRegion
+           id="flowRegion12828-4-0"><rect
+             id="rect12830-0-2"
+             width="224.52956"
+             height="182.43021"
+             x="1854.5269"
+             y="1586.6454"
+             style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+           id="flowPara12834-8-2">Proportion of </flowPara><flowPara
+           id="flowPara13050">non-coding bases</flowPara></flowRoot>      <g
+         transform="translate(-72.37969,-65.903707)"
+         id="g17360">
+        <path
+           id="path12011"
+           d="m 1722.7234,-1235.114 76.2071,-148.2286 12.9486,0 11.589,-14.0588 10.4787,0 41.1967,-21.8481 24.5316,-11.488 76.2131,12.6279 24.5316,1.5258 20.0492,6.5426 56.1638,4.8208 44.5808,-2.5707 31.6322,10.5441 76.2071,18.9211 176.9576,72.2115 100.7447,3.4375 51.6755,5.2543 24.5316,-2.826 20.0492,27.3041 31.6322,16.2258"
+           style="fill:none;stroke:#4fb37a;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12013"
+           d="m 1823.4681,-1055.1226 835.7072,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12015"
+           d="m 1823.4681,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12017"
+           d="m 1899.6751,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12019"
+           d="m 2076.6328,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12021"
+           d="m 2152.8458,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12023"
+           d="m 2329.7975,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12025"
+           d="m 2406.0105,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12027"
+           d="m 2582.9623,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12029"
+           d="m 2659.1753,-1055.1226 0,10.9478"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12095"
+           d="m 1686.2466,-1071.3305 0,-405.2999"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12097"
+           d="m 1686.2466,-1071.3305 -10.9478,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12099"
+           d="m 1686.2466,-1152.3941 -10.9478,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12101"
+           d="m 1686.2466,-1233.4517 -10.9478,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12103"
+           d="m 1686.2466,-1314.5093 -10.9478,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12105"
+           d="m 1686.2466,-1395.5728 -10.9478,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12107"
+           d="m 1686.2466,-1476.6304 -10.9478,0"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12157"
+           d="m 1686.2466,-1055.1226 984.8739,0 0,-437.7217 -984.8739,0 0,437.7217"
+           style="fill:none;stroke:#000000;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12283"
+           d="m 1722.7234,-1138.3472 76.2071,10.6213 12.9486,0 11.589,-6.4832 10.4787,0 41.1967,-2.8794 24.5316,-1.3715 76.2131,4.6546 24.5316,-1.2586 20.0492,-0.5581 56.1638,-4.1262 44.5808,1.8227 31.6322,4.5121 76.2071,-13.6907 176.9576,7.3678 100.7447,6.3347 51.6755,-3.1703 24.5316,-1.3655 20.0492,-1.2527 31.6322,3.7344"
+           style="fill:none;stroke:#7d61b8;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12285"
+           d="m 1722.7234,-1133.4848 76.2071,5.2958 12.9486,0 11.589,-8.4839 10.4787,0 41.1967,-3.5444 24.5316,-2.9804 76.2131,5.9667 24.5316,1.1399 20.0492,-6.7563 56.1638,3.6216 44.5808,-8.3771 31.6322,13.9341 76.2071,-4.0312 176.9576,-1.6505 100.7447,-5.8064 51.6755,5.6045 24.5316,0.8965 20.0492,-6.9166 31.6322,8.3593"
+           style="fill:none;stroke:#97a33f;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12287"
+           d="m 1722.7234,-1133.3542 76.2071,-9.6001 12.9486,0 11.589,7.2788 10.4787,0 41.1967,-2.0958 24.5316,-8.478 76.2131,1.3121 24.5316,-2.1551 20.0492,-4.2153 56.1638,-3.8828 44.5808,-10.17 31.6322,-4.6724 76.2071,-4.049 176.9576,22.3764 100.7447,-16.7007 51.6755,7.4687 24.5316,18.6421 20.0492,-18.3927 31.6322,11.304"
+           style="fill:none;stroke:#b84a73;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12289"
+           d="m 1722.7234,-1142.7999 76.2071,-29.9402 12.9486,0 11.589,-15.6974 10.4787,0 41.1967,-65.194 24.5316,-2.6894 76.2131,-64.1194 24.5316,18.939 20.0492,-20.4589 56.1638,15.6796 44.5808,-2.9744 31.6322,13.4235 76.2071,-18.9805 176.9576,86.3474 100.7447,-6.9819 51.6755,1.3774 24.5316,2.7726 20.0492,5.4442 31.6322,23.1186"
+           style="fill:none;stroke:#b86335;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12291"
+           d="m 1722.7234,-1254.4804 76.2071,-165.3865 12.9486,0 11.589,-1.2883 10.4787,0 41.1967,-18.9331 24.5316,-2.1967 76.2131,4.0253 24.5316,13.0495 20.0492,-1.5614 56.1638,6.0082 44.5808,1.6089 31.6322,3.2891 76.2071,25.8852 176.9576,21.2663 100.7447,47.0862 51.6755,8.3177 24.5316,-25.9921 20.0492,54.9883 31.6322,-6.3882"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12293"
+           d="m 1722.7234,-1215.7476 76.2071,-131.0707 12.9486,0 11.589,-26.8292 10.4787,0 41.1967,-24.7632 24.5316,-20.7853 76.2131,21.2365 24.5316,-9.9919 20.0492,14.6465 56.1638,3.6275 44.5808,-6.7503 31.6322,17.805 76.2071,11.9511 176.9576,123.1508 100.7447,-40.2052 51.6755,2.1907 24.5316,20.3342 20.0492,-0.38 31.6322,38.8516"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12295"
+           d="m 1722.7234,-1254.4804 76.2071,-165.3865 12.9486,0 11.589,-1.2883 10.4787,0 41.1967,-18.9331 24.5316,-2.1967 76.2131,4.0253 24.5316,13.0495 20.0492,-1.5614 56.1638,6.0082 44.5808,1.6089 31.6322,3.2891 76.2071,25.8852 176.9576,21.2663 100.7447,47.0862 51.6755,8.3177 24.5316,-25.9921 20.0492,54.9883 31.6322,-6.3882 0,67.9725 -31.6322,-38.8516 -20.0492,0.38 -24.5316,-20.3342 -51.6755,-2.1907 -100.7447,40.2052 -176.9576,-123.1508 -76.2071,-11.9511 -31.6322,-17.805 -44.5808,6.7503 -56.1638,-3.6275 -20.0492,-14.6465 -24.5316,9.9919 -76.2131,-21.2365 -24.5316,20.7853 -41.1967,24.7632 -10.4787,0 -11.589,26.8292 -12.9486,0 -76.2071,131.0707 z m 0,0"
+           style="fill:#4fb37a;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12297"
+           d="m 1722.7234,-1144.3851 76.2071,11.2506 12.9486,0 11.589,-5.0049 10.4787,0 41.1967,-6.2872 24.5316,1.2646 76.2131,-0.5641 24.5316,1.508 20.0492,-0.3978 56.1638,-4.518 44.5808,2.2026 31.6322,4.334 76.2071,-17.9237 176.9576,8.6798 100.7447,6.9938 51.6755,-1.7811 24.5316,-5.4858 20.0492,4.5656 31.6322,-1.6208"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12299"
+           d="m 1722.7234,-1132.3152 76.2071,9.9979 12.9486,0 11.589,-7.9615 10.4787,0 41.1967,0.5284 24.5316,-4.0134 76.2131,9.8732 24.5316,-4.0194 20.0492,-0.7124 56.1638,-3.7343 44.5808,1.4367 31.6322,4.6843 76.2071,-9.4517 176.9576,6.0557 100.7447,5.6758 51.6755,-4.5596 24.5316,2.7607 20.0492,-7.071 31.6322,9.0777"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12301"
+           d="m 1722.7234,-1144.3851 76.2071,11.2506 12.9486,0 11.589,-5.0049 10.4787,0 41.1967,-6.2872 24.5316,1.2646 76.2131,-0.5641 24.5316,1.508 20.0492,-0.3978 56.1638,-4.518 44.5808,2.2026 31.6322,4.334 76.2071,-17.9237 176.9576,8.6798 100.7447,6.9938 51.6755,-1.7811 24.5316,-5.4858 20.0492,4.5656 31.6322,-1.6208 0,23.4214 -31.6322,-9.0777 -20.0492,7.071 -24.5316,-2.7607 -51.6755,4.5596 -100.7447,-5.6758 -176.9576,-6.0557 -76.2071,9.4517 -31.6322,-4.6843 -44.5808,-1.4367 -56.1638,3.7343 -20.0492,0.7124 -24.5316,4.0194 -76.2131,-9.8732 -24.5316,4.0134 -41.1967,-0.5284 -10.4787,0 -11.589,7.9615 -12.9486,0 -76.2071,-9.9979 z m 0,0"
+           style="fill:#7d61b8;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12303"
+           d="m 1722.7234,-1141.7372 76.2071,0.8015 12.9486,0 11.589,-5.2958 10.4787,0 41.1967,-2.5885 24.5316,-7.7834 76.2131,9.048 24.5316,2.7369 20.0492,-7.2668 56.1638,6.4832 44.5808,-12.5152 31.6322,16.8373 76.2071,-9.7901 176.9576,-1.6386 100.7447,0.7421 51.6755,-3.5206 24.5316,7.3143 20.0492,-7.8843 31.6322,9.3567"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12305"
+           d="m 1722.7234,-1125.2324 76.2071,9.7901 12.9486,0 11.589,-11.6662 10.4787,0 41.1967,-4.5061 24.5316,1.8226 76.2131,2.8854 24.5316,-0.4631 20.0492,-6.2398 56.1638,0.76 44.5808,-4.2331 31.6322,11.025 76.2071,1.7336 176.9576,-1.6624 100.7447,-12.3608 51.6755,14.7297 24.5316,-5.5214 20.0492,-5.9429 31.6322,7.3618"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12307"
+           d="m 1722.7234,-1141.7372 76.2071,0.8015 12.9486,0 11.589,-5.2958 10.4787,0 41.1967,-2.5885 24.5316,-7.7834 76.2131,9.048 24.5316,2.7369 20.0492,-7.2668 56.1638,6.4832 44.5808,-12.5152 31.6322,16.8373 76.2071,-9.7901 176.9576,-1.6386 100.7447,0.7421 51.6755,-3.5206 24.5316,7.3143 20.0492,-7.8843 31.6322,9.3567 0,18.9805 -31.6322,-7.3618 -20.0492,5.9429 -24.5316,5.5214 -51.6755,-14.7297 -100.7447,12.3608 -176.9576,1.6624 -76.2071,-1.7336 -31.6322,-11.025 -44.5808,4.2331 -56.1638,-0.76 -20.0492,6.2398 -24.5316,0.4631 -76.2131,-2.8854 -24.5316,-1.8226 -41.1967,4.5061 -10.4787,0 -11.589,11.6662 -12.9486,0 -76.2071,-9.7901 z m 0,0"
+           style="fill:#97a33f;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12309"
+           d="m 1722.7234,-1137.4447 76.2071,-23.3917 12.9486,0 11.589,16.107 10.4787,0 41.1967,3.2356 24.5316,-20.1501 76.2131,6.7326 24.5316,-9.7189 20.0492,5.6164 56.1638,-8.6146 44.5808,-15.9289 31.6322,-0.469 76.2071,-6.3704 176.9576,22.5368 100.7447,-17.3182 51.6755,11.7374 24.5316,13.6314 20.0492,-13.3583 31.6322,13.6789"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12311"
+           d="m 1722.7234,-1129.2636 76.2071,4.1915 12.9486,0 11.589,-1.5495 10.4787,0 41.1967,-7.4272 24.5316,3.1941 76.2131,-4.1025 24.5316,5.4027 20.0492,-14.0469 56.1638,0.8431 44.5808,-4.3993 31.6322,-8.8877 76.2071,-1.7217 176.9576,22.2102 100.7447,-16.0714 51.6755,3.1941 24.5316,23.6529 20.0492,-23.4213 31.6322,8.9292"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12313"
+           d="m 1722.7234,-1137.4447 76.2071,-23.3917 12.9486,0 11.589,16.107 10.4787,0 41.1967,3.2356 24.5316,-20.1501 76.2131,6.7326 24.5316,-9.7189 20.0492,5.6164 56.1638,-8.6146 44.5808,-15.9289 31.6322,-0.469 76.2071,-6.3704 176.9576,22.5368 100.7447,-17.3182 51.6755,11.7374 24.5316,13.6314 20.0492,-13.3583 31.6322,13.6789 0,20.2154 -31.6322,-8.9292 -20.0492,23.4213 -24.5316,-23.6529 -51.6755,-3.1941 -100.7447,16.0714 -176.9576,-22.2102 -76.2071,1.7217 -31.6322,8.8877 -44.5808,4.3993 -56.1638,-0.8431 -20.0492,14.0469 -24.5316,-5.4027 -76.2131,4.1025 -24.5316,-3.1941 -41.1967,7.4272 -10.4787,0 -11.589,1.5495 -12.9486,0 -76.2071,-4.1915 z m 0,0"
+           style="fill:#b84a73;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12315"
+           d="m 1722.7234,-1149.8708 76.2071,-32.5466 12.9486,0 11.589,-31.0266 10.4787,0 41.1967,-69.8961 24.5316,-9.3033 76.2131,-57.8499 24.5316,26.9836 20.0492,-27.5239 56.1638,18.9212 44.5808,10.5085 31.6322,10.6746 76.2071,-17.9593 176.9576,56.0866 100.7447,21.5275 51.6755,2.3451 24.5316,-0.653 20.0492,5.5807 31.6322,33.9477"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12317"
+           d="m 1722.7234,-1135.7349 76.2071,-27.3279 12.9486,0 11.589,-0.3622 10.4787,0 41.1967,-60.4919 24.5316,3.9184 76.2131,-70.3829 24.5316,10.8944 20.0492,-13.4057 56.1638,12.4439 44.5808,-16.4632 31.6322,16.1723 76.2071,-19.9958 176.9576,116.6083 100.7447,-35.4972 51.6755,0.4156 24.5316,6.1982 20.0492,5.3136 31.6322,12.2895"
+           style="fill:none;stroke:#bdbdbd;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12319"
+           d="m 1722.7234,-1149.8708 76.2071,-32.5466 12.9486,0 11.589,-31.0266 10.4787,0 41.1967,-69.8961 24.5316,-9.3033 76.2131,-57.8499 24.5316,26.9836 20.0492,-27.5239 56.1638,18.9212 44.5808,10.5085 31.6322,10.6746 76.2071,-17.9593 176.9576,56.0866 100.7447,21.5275 51.6755,2.3451 24.5316,-0.653 20.0492,5.5807 31.6322,33.9477 0,14.6465 -31.6322,-12.2895 -20.0492,-5.3136 -24.5316,-6.1982 -51.6755,-0.4156 -100.7447,35.4972 -176.9576,-116.6083 -76.2071,19.9958 -31.6322,-16.1723 -44.5808,16.4632 -56.1638,-12.4439 -20.0492,13.4057 -24.5316,-10.8944 -76.2131,70.3829 -24.5316,-3.9184 -41.1967,60.4919 -10.4787,0 -11.589,0.3622 -12.9486,0 -76.2071,27.3279 z m 0,0"
+           style="fill:#b86335;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12321"
+           d="m 1722.7234,-1235.114 76.2071,-148.2286 12.9486,0 11.589,-14.0588 10.4787,0 41.1967,-21.8481 24.5316,-11.488 76.2131,12.6279 24.5316,1.5258 20.0492,6.5426 56.1638,4.8208 44.5808,-2.5707 31.6322,10.5441 76.2071,18.9211 176.9576,72.2115 100.7447,3.4375 51.6755,5.2543 24.5316,-2.826 20.0492,27.3041 31.6322,16.2258"
+           style="fill:none;stroke:#4fb37a;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12323"
+           d="m 1722.7234,-1138.3472 76.2071,10.6213 12.9486,0 11.589,-6.4832 10.4787,0 41.1967,-2.8794 24.5316,-1.3715 76.2131,4.6546 24.5316,-1.2586 20.0492,-0.5581 56.1638,-4.1262 44.5808,1.8227 31.6322,4.5121 76.2071,-13.6907 176.9576,7.3678 100.7447,6.3347 51.6755,-3.1703 24.5316,-1.3655 20.0492,-1.2527 31.6322,3.7344"
+           style="fill:none;stroke:#7d61b8;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12325"
+           d="m 1722.7234,-1133.4848 76.2071,5.2958 12.9486,0 11.589,-8.4839 10.4787,0 41.1967,-3.5444 24.5316,-2.9804 76.2131,5.9667 24.5316,1.1399 20.0492,-6.7563 56.1638,3.6216 44.5808,-8.3771 31.6322,13.9341 76.2071,-4.0312 176.9576,-1.6505 100.7447,-5.8064 51.6755,5.6045 24.5316,0.8965 20.0492,-6.9166 31.6322,8.3593"
+           style="fill:none;stroke:#97a33f;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12327"
+           d="m 1722.7234,-1133.3542 76.2071,-9.6001 12.9486,0 11.589,7.2788 10.4787,0 41.1967,-2.0958 24.5316,-8.478 76.2131,1.3121 24.5316,-2.1551 20.0492,-4.2153 56.1638,-3.8828 44.5808,-10.17 31.6322,-4.6724 76.2071,-4.049 176.9576,22.3764 100.7447,-16.7007 51.6755,7.4687 24.5316,18.6421 20.0492,-18.3927 31.6322,11.304"
+           style="fill:none;stroke:#b84a73;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12329"
+           d="m 1722.7234,-1142.7999 76.2071,-29.9402 12.9486,0 11.589,-15.6974 10.4787,0 41.1967,-65.194 24.5316,-2.6894 76.2131,-64.1194 24.5316,18.939 20.0492,-20.4589 56.1638,15.6796 44.5808,-2.9744 31.6322,13.4235 76.2071,-18.9805 176.9576,86.3474 100.7447,-6.9819 51.6755,1.3774 24.5316,2.7726 20.0492,5.4442 31.6322,23.1186"
+           style="fill:none;stroke:#b86335;stroke-width:1.13990033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
         <g
-           transform="translate(-118.53541,0)"
-           id="g16707">
-          <g
-             transform="translate(-12,-76.425583)"
-             id="g16485">
-            <g
-               id="g14227"
-               transform="matrix(1,0,0,-1,109.91512,-4038.8144)">
-              <path
-                 id="path10869"
-                 d="m 1726.5962,-2065.9571 834.2159,0"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10871"
-                 d="m 1726.5962,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10873"
-                 d="m 1802.6673,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10875"
-                 d="m 1979.3092,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10877"
-                 d="m 2055.3862,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10879"
-                 d="m 2232.0221,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10881"
-                 d="m 2308.0992,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10883"
-                 d="m 2484.7351,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path10885"
-                 d="m 2560.8121,-2065.9571 0,10.9283"
-                 style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1699.5348,-1647.6032 -10.9283,0"
-               id="path10953" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1699.5348,-1787.8927 -10.9283,0"
-               id="path10955" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1699.5348,-1869.9612 -10.9283,0"
-               id="path10957" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1699.5348,-1928.1821 -10.9283,0"
-               id="path10959" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#4fb37a;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1609.9055 76.0711,-181.0689 12.9254,0 11.5683,-24.4937 10.4601,0 41.1232,-53.5805 24.4878,-19.3081 76.077,3.8165 24.4879,43.8197 20.0134,-0.2252 56.0636,22.0284 44.5012,-8.7651 31.5758,23.4803 76.0711,28.3459 176.6419,49.3787 100.5648,29.9816 51.5833,2.5187 24.4878,-26.4969 20.0134,40.0031 31.5758,5.5708"
-               id="path10867" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1699.5348,-1647.6032 0,-280.5789"
-               id="path10951" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1699.5348,-1536.045 983.1163,0 0,-436.9405 -983.1163,0 0,436.9405"
-               id="path11009" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#7d61b8;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1609.7692 76.0711,20.772 12.9254,0 11.5683,11.5327 10.4601,0 41.1232,0.3023 24.4878,-8.8126 76.077,-9.8437 24.4879,7.005 20.0134,10.6023 56.0636,-10.6142 44.5012,3.9885 31.5758,9.6541 76.0711,-16.6828 176.6419,14.5611 100.5648,0.3734 51.5833,-17.7969 24.4878,-3.1766 20.0134,11.6039 31.5758,2.4831"
-               id="path11097" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#97a33f;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1589.9929 76.0711,17.9807 12.9254,0 11.5683,-7.5324 10.4601,0 41.1232,-3.7574 24.4878,-3.9173 76.077,7.728 24.4879,-3.2832 20.0134,-12.3091 56.0636,17.1865 44.5012,-19.5452 31.5758,13.3699 76.0711,-1.4283 176.6419,-5.8493 100.5648,5.4404 51.5833,-4.5396 24.4878,5.9916 20.0134,-16.6176 31.5758,9.583"
-               id="path11099" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#b84a73;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1589.1039 76.0711,14.1996 12.9254,0 11.5683,4.3204 10.4601,0 41.1232,-15.1775 24.4878,-7.7339 76.077,8.2495 24.4879,3.8166 20.0134,-9.6304 56.0636,-4.3144 44.5012,3.4906 31.5758,13.7907 76.0711,-26.1413 176.6419,21.4476 100.5648,-18.3836 51.5833,-7.9769 24.4878,16.8783 20.0134,-10.5608 31.5758,3.1054"
-               id="path11101" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#b86335;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1583.059 76.0711,-3.7277 12.9254,0 11.5683,-12.7002 10.4601,0 41.1232,-35.3865 24.4878,-6.3116 76.077,-63.0567 24.4879,34.1893 20.0134,-13.1803 56.0636,4.427 44.5012,-12.961 31.5758,21.1335 76.0711,-23.8655 176.6419,32.9033 100.5648,23.4151 51.5833,-14.5374 24.4878,-3.2714 20.0134,1.0371 31.5758,28.1089"
-               id="path11103" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1635.383 76.0711,-211.9809 12.9254,0 11.5683,-24.9679 10.4601,0 41.1232,-62.2389 24.4878,6.5783 76.077,-28.8082 24.4879,92.019 20.0134,-14.7863 56.0636,24.7012 44.5012,-8.3325 31.5758,21.0564 76.0711,45.645 176.6419,8.9015 100.5648,66.6303 51.5833,8.6822 24.4878,-53.379 20.0134,66.2155 31.5758,6.8035"
-               id="path11105" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1580.7477 76.0711,-131.791 12.9254,0 11.5683,-23.5692 10.4601,0 41.1232,-35.4398 24.4878,-67.4719 76.077,67.9223 24.4879,-42.3084 20.0134,20.2326 56.0636,18.0044 44.5012,-9.4111 31.5758,27.1014 76.0711,4.6048 176.6419,114.3792 100.5648,-30.1535 51.5833,-5.1974 24.4878,11.6335 20.0134,2.6787 31.5758,4.0774"
-               id="path11107" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:#4fb37a;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-               d="m 1735.9465,-1635.383 76.0711,-211.9809 12.9254,0 11.5683,-24.9679 10.4601,0 41.1232,-62.2389 24.4878,6.5783 76.077,-28.8082 24.4879,92.019 20.0134,-14.7863 56.0636,24.7012 44.5012,-8.3325 31.5758,21.0564 76.0711,45.645 176.6419,8.9015 100.5648,66.6303 51.5833,8.6822 24.4878,-53.379 20.0134,66.2155 31.5758,6.8035 0,37.1881 -31.5758,-4.0774 -20.0134,-2.6787 -24.4878,-11.6335 -51.5833,5.1974 -100.5648,30.1535 -176.6419,-114.3792 -76.0711,-4.6048 -31.5758,-27.1014 -44.5012,9.4111 -56.0636,-18.0044 -20.0134,-20.2326 -24.4879,42.3084 -76.077,-67.9223 -24.4878,67.4719 -41.1232,35.4398 -10.4601,0 -11.5683,23.5692 -12.9254,0 -76.0711,131.791 z m 0,0"
-               id="path11109" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1630.9975 76.0711,20.7957 12.9254,0 11.5683,18.3184 10.4601,0 41.1232,6.0212 24.4878,-9.1325 76.077,-18.9645 24.4879,11.3669 20.0134,7.1353 56.0636,-7.8287 44.5012,0.2252 31.5758,12.0305 76.0711,-12.3209 176.6419,18.2355 100.5648,0.5867 51.5833,-24.0671 24.4878,-3.9529 20.0134,18.763 31.5758,-7.1769"
-               id="path11111" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1586.0518 76.0711,20.7483 12.9254,0 11.5683,3.3662 10.4601,0 41.1232,-6.1339 24.4878,-8.4688 76.077,0.6401 24.4879,1.8727 20.0134,14.6678 56.0636,-13.8914 44.5012,8.4451 31.5758,6.8153 76.0711,-21.7024 176.6419,10.5134 100.5648,0.1422 51.5833,-10.8038 24.4878,-2.2698 20.0134,3.5854 31.5758,13.447"
-               id="path11113" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:#7d61b8;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-               d="m 1735.9465,-1630.9975 76.0711,20.7957 12.9254,0 11.5683,18.3184 10.4601,0 41.1232,6.0212 24.4878,-9.1325 76.077,-18.9645 24.4879,11.3669 20.0134,7.1353 56.0636,-7.8287 44.5012,0.2252 31.5758,12.0305 76.0711,-12.3209 176.6419,18.2355 100.5648,0.5867 51.5833,-24.0671 24.4878,-3.9529 20.0134,18.763 31.5758,-7.1769 0,35.8843 -31.5758,-13.447 -20.0134,-3.5855 -24.4878,2.2698 -51.5833,10.8038 -100.5648,-0.1421 -176.6419,-10.5134 -76.0711,21.7024 -31.5758,-6.8153 -44.5012,-8.4451 -56.0636,13.8914 -20.0134,-14.6678 -24.4879,-1.8727 -76.077,-0.6401 -24.4878,8.4688 -41.1232,6.1338 -10.4601,0 -11.5683,-3.3662 -12.9254,0 -76.0711,-20.7482 z m 0,0"
-               id="path11115" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1608.3706 76.0711,25.8213 12.9254,0 11.5683,-7.2539 10.4601,0 41.1232,-4.5041 24.4878,-6.8864 76.077,9.9978 24.4879,-6.5309 20.0134,-19.0948 56.0636,23.9544 44.5012,-14.7448 31.5758,5.5056 76.0711,-0.2015 176.6419,-3.6269 100.5648,9.3103 51.5833,-13.6544 24.4878,16.4932 20.0134,-29.2468 31.5758,10.466"
-               id="path11117" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1569.772 76.0711,8.8777 12.9254,0 11.5683,-7.8465 10.4601,0 41.1232,-2.9277 24.4878,-0.5333 76.077,5.1381 24.4879,0.4386 20.0134,-4.107 56.0636,9.0081 44.5012,-25.0093 31.5758,22.4669 76.0711,-2.898 176.6419,-8.4688 100.5648,1.0312 51.5833,6.1456 24.4878,-6.2227 20.0134,-1.7601 31.5758,8.4688"
-               id="path11119" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:#97a33f;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-               d="m 1735.9465,-1608.3706 76.0711,25.8213 12.9254,0 11.5683,-7.2539 10.4601,0 41.1232,-4.5041 24.4878,-6.8864 76.077,9.9978 24.4879,-6.5309 20.0134,-19.0948 56.0636,23.9544 44.5012,-14.7448 31.5758,5.5056 76.0711,-0.2015 176.6419,-3.6269 100.5648,9.3103 51.5833,-13.6544 24.4878,16.4932 20.0134,-29.2468 31.5758,10.466 0,44.5961 -31.5758,-8.4688 -20.0134,1.7601 -24.4878,6.2227 -51.5833,-6.1456 -100.5648,-1.0312 -176.6419,8.4688 -76.0711,2.898 -31.5758,-22.4669 -44.5012,25.0093 -56.0636,-9.0081 -20.0134,4.107 -24.4879,-0.4386 -76.077,-5.1381 -24.4878,0.5333 -41.1232,2.9277 -10.4601,0 -11.5683,7.8465 -12.9254,0 -76.0711,-8.8777 z m 0,0"
-               id="path11121" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1610.3026 76.0711,28.1741 12.9254,0 11.5683,6.1219 10.4601,0 41.1232,-22.6032 24.4878,-3.704 76.077,-1.2683 24.4879,-3.3661 20.0134,-4.2493 56.0636,3.8581 44.5012,10.306 31.5758,11.7342 76.0711,-36.1568 176.6419,24.2152 100.5648,-16.665 51.5833,-8.1547 24.4878,20.0904 20.0134,-19.2726 31.5758,12.9551"
-               id="path11123" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1565.422 76.0711,-1.9972 12.9254,0 11.5683,2.412 10.4601,0 41.1232,-7.0287 24.4878,-12.2439 76.077,19.1896 24.4879,12.8662 20.0134,-16.4635 56.0636,-13.9626 44.5012,-3.9529 31.5758,15.9776 76.0711,-14.7804 176.6419,18.188 100.5648,-20.3571 51.5833,-7.7695 24.4878,13.2692 20.0134,-0.4919 31.5758,-8.214"
-               id="path11125" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:#b84a73;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-               d="m 1735.9465,-1610.3026 76.0711,28.1741 12.9254,0 11.5683,6.1219 10.4601,0 41.1232,-22.6032 24.4878,-3.704 76.077,-1.2683 24.4879,-3.3661 20.0134,-4.2493 56.0636,3.8581 44.5012,10.306 31.5758,11.7342 76.0711,-36.1568 176.6419,24.2152 100.5648,-16.665 51.5833,-8.1547 24.4878,20.0904 20.0134,-19.2726 31.5758,12.9551 0,17.5065 -31.5758,8.214 -20.0134,0.4919 -24.4878,-13.2692 -51.5833,7.7695 -100.5648,20.3571 -176.6419,-18.188 -76.0711,14.7804 -31.5758,-15.9776 -44.5012,3.9529 -56.0636,13.9626 -20.0134,16.4635 -24.4879,-12.8662 -76.077,-19.1896 -24.4878,12.2439 -41.1232,7.0287 -10.4601,0 -11.5683,-2.412 -12.9254,0 -76.0711,1.9972 z m 0,0"
-               id="path11127" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1590.7988 76.0711,-9.5356 12.9254,0 11.5683,-16.3094 10.4601,0 41.1232,-40.981 24.4878,-16.4812 76.077,-58.8313 24.4879,43.0315 20.0134,-28.3933 56.0636,5.4404 44.5012,-8.0362 31.5758,29.6735 76.0711,-26.7221 176.6419,12.8662 100.5648,50.6409 51.5833,-15.7049 24.4878,2.252 20.0134,-3.9529 31.5758,34.5864"
-               id="path11129" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1575.0169 76.0711,2.7499 12.9254,0 11.5683,-8.4629 10.4601,0 41.1232,-28.5119 24.4878,7.3962 76.077,-68.9535 24.4879,22.7514 20.0134,7.2657 56.0636,2.9395 44.5012,-19.8949 31.5758,10.0275 76.0711,-20.2683 176.6419,61.8419 100.5648,-14.3656 51.5833,-13.1447 24.4878,-9.6956 20.0134,6.8154 31.5758,20.6653"
-               id="path11131" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:#b86335;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
-               d="m 1735.9465,-1590.7988 76.0711,-9.5356 12.9254,0 11.5683,-16.3094 10.4601,0 41.1232,-40.981 24.4878,-16.4812 76.077,-58.8313 24.4879,43.0315 20.0134,-28.3933 56.0636,5.4404 44.5012,-8.0362 31.5758,29.6735 76.0711,-26.7221 176.6419,12.8662 100.5648,50.6409 51.5833,-15.7049 24.4878,2.252 20.0134,-3.9529 31.5758,34.5864 0,21.3943 -31.5758,-20.6653 -20.0134,-6.8154 -24.4878,9.6956 -51.5833,13.1447 -100.5648,14.3656 -176.6419,-61.8419 -76.0711,20.2683 -31.5758,-10.0275 -44.5012,19.8949 -56.0636,-2.9395 -20.0134,-7.2657 -24.4879,-22.7514 -76.077,68.9535 -24.4878,-7.3962 -41.1232,28.5119 -10.4601,0 -11.5683,8.4629 -12.9254,0 -76.0711,-2.7499 z m 0,0"
-               id="path11133" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#4fb37a;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1609.9055 76.0711,-181.0689 12.9254,0 11.5683,-24.4937 10.4601,0 41.1232,-53.5805 24.4878,-19.3081 76.077,3.8165 24.4879,43.8197 20.0134,-0.2252 56.0636,22.0284 44.5012,-8.7651 31.5758,23.4803 76.0711,28.3459 176.6419,49.3787 100.5648,29.9816 51.5833,2.5187 24.4878,-26.4969 20.0134,40.0031 31.5758,5.5708"
-               id="path11135" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#7d61b8;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1609.7692 76.0711,20.772 12.9254,0 11.5683,11.5327 10.4601,0 41.1232,0.3023 24.4878,-8.8126 76.077,-9.8437 24.4879,7.005 20.0134,10.6023 56.0636,-10.6142 44.5012,3.9885 31.5758,9.6541 76.0711,-16.6828 176.6419,14.5611 100.5648,0.3734 51.5833,-17.7969 24.4878,-3.1766 20.0134,11.6039 31.5758,2.4831"
-               id="path11137" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#97a33f;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1589.9929 76.0711,17.9807 12.9254,0 11.5683,-7.5324 10.4601,0 41.1232,-3.7574 24.4878,-3.9173 76.077,7.728 24.4879,-3.2832 20.0134,-12.3091 56.0636,17.1865 44.5012,-19.5452 31.5758,13.3699 76.0711,-1.4283 176.6419,-5.8493 100.5648,5.4404 51.5833,-4.5396 24.4878,5.9916 20.0134,-16.6176 31.5758,9.583"
-               id="path11139" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#b84a73;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1589.1039 76.0711,14.1996 12.9254,0 11.5683,4.3204 10.4601,0 41.1232,-15.1775 24.4878,-7.7339 76.077,8.2495 24.4879,3.8166 20.0134,-9.6304 56.0636,-4.3144 44.5012,3.4906 31.5758,13.7907 76.0711,-26.1413 176.6419,21.4476 100.5648,-18.3836 51.5833,-7.9769 24.4878,16.8783 20.0134,-10.5608 31.5758,3.1054"
-               id="path11141" />
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#b86335;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-               d="m 1735.9465,-1583.059 76.0711,-3.7277 12.9254,0 11.5683,-12.7002 10.4601,0 41.1232,-35.3865 24.4878,-6.3116 76.077,-63.0567 24.4879,34.1893 20.0134,-13.1803 56.0636,4.427 44.5012,-12.961 31.5758,21.1335 76.0711,-23.8655 176.6419,32.9033 100.5648,23.4151 51.5833,-14.5374 24.4878,-3.2714 20.0134,1.0371 31.5758,28.1089"
-               id="path11143" />
-          </g>
+           transform="translate(95.884707,565.92595)"
+           id="g13354-1">
           <flowRoot
-             transform="translate(-624.68703,-3468.7279)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot12826-4"
-             xml:space="preserve"><flowRegion
-               id="flowRegion12828-4"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;text-anchor:middle"
-                 y="1586.6454"
-                 x="1854.5269"
-                 height="130.61574"
-                 width="585.07202"
-                 id="rect12830-0" /></flowRegion><flowPara
-               id="flowPara12834-8">Genome size</flowPara></flowRoot>          <flowRoot
-             transform="translate(139.89659,-3022.676)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605" /></flowRegion><flowPara
-               id="flowPara13607">40000</flowPara></flowRoot>          <flowRoot
-             transform="translate(138.97548,-2965.3991)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-9"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-6"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-6" /></flowRegion><flowPara
-               id="flowPara13607-5">30000</flowPara></flowRoot>          <flowRoot
-             transform="translate(141.26538,-2882.9628)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-1"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-8"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-1" /></flowRegion><flowPara
-               id="flowPara13607-4">20000</flowPara></flowRoot>          <flowRoot
-             transform="translate(138.97548,-2743.279)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot13601-5"
-             xml:space="preserve"><flowRegion
-               id="flowRegion13603-2"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz'"
-                 y="999.5014"
-                 x="1479.2744"
-                 height="146.5535"
-                 width="261.04843"
-                 id="rect13605-8" /></flowRegion><flowPara
-               id="flowPara13607-2">10000</flowPara></flowRoot>        </g>
+             xml:space="preserve"
+             id="flowRoot13234-6"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(87.278009,-3185.4577)"><flowRegion
+               id="flowRegion13236-15"><rect
+                 id="rect13238-4"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13240-3">5</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-5"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(158.1884,-3182.8989)"><flowRegion
+               id="flowRegion13236-1-1"><rect
+                 id="rect13238-9-9"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-6">10</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-7-5"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(335.53274,-3183.6025)"><flowRegion
+               id="flowRegion13236-1-4-7"><rect
+                 id="rect13238-9-3-0"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-3-0">50</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-8-4"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(404.61871,-3182.523)"><flowRegion
+               id="flowRegion13236-1-7-8"><rect
+                 id="rect13238-9-4-5"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-5-2">100</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-4-0"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(581.27075,-3183.0627)"><flowRegion
+               id="flowRegion13236-1-74-4"><rect
+                 id="rect13238-9-37-7"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-4-9">500</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-1-4"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(653.0554,-3182.523)"><flowRegion
+               id="flowRegion13236-1-41-9"><rect
+                 id="rect13238-9-7-0"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-2-2">1000</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-14-2"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(829.1677,-3182.5229)"><flowRegion
+               id="flowRegion13236-1-8-5"><rect
+                 id="rect13238-9-1-4"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-7-2">5000</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot13234-0-0-1"
+             style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             transform="translate(901.68411,-3182.523)"><flowRegion
+               id="flowRegion13236-1-72-7"><rect
+                 id="rect13238-9-11-2"
+                 width="338.95309"
+                 height="131.69516"
+                 x="1635.3948"
+                 y="1568.2944"
+                 style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+               id="flowPara13266-21-1">10,000</flowPara></flowRoot>        </g>
         <flowRoot
-           xml:space="preserve"
-           id="flowRoot12826-7-2-9-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-139.13144,-3187.7936)"><flowRegion
-             id="flowRegion12828-6-3-5-4"><rect
-               id="rect12830-4-0-1-7"
-               width="291.96497"
-               height="130.61577"
-               x="1854.5269"
-               y="1586.6454"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara12834-4-7-7-6">Genome inflation due to non-coding bases invasion</flowPara></flowRoot>        <g
-           transform="translate(-47.084543,-29.633853)"
-           id="g18059">
-          <flowRoot
-             transform="translate(867.86954,-3220.7137)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot12826-1"
-             xml:space="preserve"><flowRegion
-               id="flowRegion12828-0"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:start;text-anchor:start"
-                 y="1586.6454"
-                 x="1854.5269"
-                 height="231.19629"
-                 width="80.772018"
-                 id="rect12830-3" /></flowRegion><flowPara
-               id="flowPara16377-8">Sigma</flowPara><flowPara
-               id="flowPara18041"
-               style="text-align:start;text-anchor:start">0.005</flowPara><flowPara
-               id="flowPara18043"
-               style="text-align:start;text-anchor:start">0.001</flowPara><flowPara
-               id="flowPara18045"
-               style="text-align:start;text-anchor:start">0.002</flowPara><flowPara
-               id="flowPara18047"
-               style="text-align:start;text-anchor:start">0.005</flowPara><flowPara
-               id="flowPara18049"
-               style="text-align:start;text-anchor:start">0.009</flowPara></flowRoot>          <circle
-             style="fill:#50b47b;fill-opacity:0.39215686;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path17973"
-             cx="2703.0579"
-             cy="-1423.1736"
-             r="12.841337" />
-          <circle
-             style="fill:#7f63b8;fill-opacity:0.39215686;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path17973-0"
-             cx="2703.5952"
-             cy="-1574.1848"
-             r="12.841337" />
-          <circle
-             style="fill:#98a441;fill-opacity:0.39215686;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path17973-0-9"
-             cx="2703.0632"
-             cy="-1536.0396"
-             r="12.841337" />
-          <circle
-             style="fill:#b94b75;fill-opacity:0.39215686;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path17973-0-5"
-             cx="2702.3855"
-             cy="-1498.2396"
-             r="12.841337" />
-          <circle
-             style="fill:#ba6437;fill-opacity:0.39215686;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path17973-0-0"
-             cx="2703.1045"
-             cy="-1462.1534"
-             r="12.841337" />
+           transform="translate(177.90375,-2494.6554)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-15"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-81"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-9" /></flowRegion><flowPara
+             id="flowPara13607-1">1</flowPara></flowRoot>        <flowRoot
+           transform="translate(179.22447,-2089.719)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-15-4"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-81-8"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-9-0" /></flowRegion><flowPara
+             id="flowPara13607-1-6">0</flowPara></flowRoot>        <flowRoot
+           transform="translate(163.71861,-2171.1725)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-15-4-7"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-81-8-3"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-9-0-1" /></flowRegion><flowPara
+             id="flowPara13607-1-6-3">0.2</flowPara></flowRoot>        <flowRoot
+           transform="translate(163.25254,-2251.7518)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-15-4-7-1"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-81-8-3-3"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-9-0-1-9" /></flowRegion><flowPara
+             id="flowPara13607-1-6-3-7">0.4</flowPara></flowRoot>        <flowRoot
+           transform="translate(163.55834,-2332.0972)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-15-4-7-1-5"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-81-8-3-3-5"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-9-0-1-9-7" /></flowRegion><flowPara
+             id="flowPara13607-1-6-3-7-1">0.6</flowPara></flowRoot>        <flowRoot
+           transform="translate(163.75477,-2412.556)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-15-4-7-1-5-3"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-81-8-3-3-5-5"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-9-0-1-9-7-1" /></flowRegion><flowPara
+             id="flowPara13607-1-6-3-7-1-1">0.8</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(-72.37969,-65.903707)"
+         id="g16707">
+        <g
+           transform="translate(-12,-76.425583)"
+           id="g16485">
+          <g
+             id="g14227"
+             transform="matrix(1,0,0,-1,109.91512,-4038.8144)">
+            <path
+               id="path10869"
+               d="m 1726.5962,-2065.9571 834.2159,0"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10871"
+               d="m 1726.5962,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10873"
+               d="m 1802.6673,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10875"
+               d="m 1979.3092,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10877"
+               d="m 2055.3862,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10879"
+               d="m 2232.0221,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10881"
+               d="m 2308.0992,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10883"
+               d="m 2484.7351,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path10885"
+               d="m 2560.8121,-2065.9571 0,10.9283"
+               style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
           <path
-             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 2720.0487,-1612.7089 -39.1728,0 0,209.4126 106.188,0 0,-209.0634 -7.7523,-0.1383"
-             id="path18057"
              inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cccccc" />
+             style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1699.5348,-1647.6032 -10.9283,0"
+             id="path10953" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1699.5348,-1787.8927 -10.9283,0"
+             id="path10955" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1699.5348,-1869.9612 -10.9283,0"
+             id="path10957" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1699.5348,-1928.1821 -10.9283,0"
+             id="path10959" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#4fb37a;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1609.9055 76.0711,-181.0689 12.9254,0 11.5683,-24.4937 10.4601,0 41.1232,-53.5805 24.4878,-19.3081 76.077,3.8165 24.4879,43.8197 20.0134,-0.2252 56.0636,22.0284 44.5012,-8.7651 31.5758,23.4803 76.0711,28.3459 176.6419,49.3787 100.5648,29.9816 51.5833,2.5187 24.4878,-26.4969 20.0134,40.0031 31.5758,5.5708"
+             id="path10867" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1699.5348,-1647.6032 0,-280.5789"
+             id="path10951" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1699.5348,-1536.045 983.1163,0 0,-436.9405 -983.1163,0 0,436.9405"
+             id="path11009" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#7d61b8;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1609.7692 76.0711,20.772 12.9254,0 11.5683,11.5327 10.4601,0 41.1232,0.3023 24.4878,-8.8126 76.077,-9.8437 24.4879,7.005 20.0134,10.6023 56.0636,-10.6142 44.5012,3.9885 31.5758,9.6541 76.0711,-16.6828 176.6419,14.5611 100.5648,0.3734 51.5833,-17.7969 24.4878,-3.1766 20.0134,11.6039 31.5758,2.4831"
+             id="path11097" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#97a33f;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1589.9929 76.0711,17.9807 12.9254,0 11.5683,-7.5324 10.4601,0 41.1232,-3.7574 24.4878,-3.9173 76.077,7.728 24.4879,-3.2832 20.0134,-12.3091 56.0636,17.1865 44.5012,-19.5452 31.5758,13.3699 76.0711,-1.4283 176.6419,-5.8493 100.5648,5.4404 51.5833,-4.5396 24.4878,5.9916 20.0134,-16.6176 31.5758,9.583"
+             id="path11099" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#b84a73;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1589.1039 76.0711,14.1996 12.9254,0 11.5683,4.3204 10.4601,0 41.1232,-15.1775 24.4878,-7.7339 76.077,8.2495 24.4879,3.8166 20.0134,-9.6304 56.0636,-4.3144 44.5012,3.4906 31.5758,13.7907 76.0711,-26.1413 176.6419,21.4476 100.5648,-18.3836 51.5833,-7.9769 24.4878,16.8783 20.0134,-10.5608 31.5758,3.1054"
+             id="path11101" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#b86335;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1583.059 76.0711,-3.7277 12.9254,0 11.5683,-12.7002 10.4601,0 41.1232,-35.3865 24.4878,-6.3116 76.077,-63.0567 24.4879,34.1893 20.0134,-13.1803 56.0636,4.427 44.5012,-12.961 31.5758,21.1335 76.0711,-23.8655 176.6419,32.9033 100.5648,23.4151 51.5833,-14.5374 24.4878,-3.2714 20.0134,1.0371 31.5758,28.1089"
+             id="path11103" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1635.383 76.0711,-211.9809 12.9254,0 11.5683,-24.9679 10.4601,0 41.1232,-62.2389 24.4878,6.5783 76.077,-28.8082 24.4879,92.019 20.0134,-14.7863 56.0636,24.7012 44.5012,-8.3325 31.5758,21.0564 76.0711,45.645 176.6419,8.9015 100.5648,66.6303 51.5833,8.6822 24.4878,-53.379 20.0134,66.2155 31.5758,6.8035"
+             id="path11105" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1580.7477 76.0711,-131.791 12.9254,0 11.5683,-23.5692 10.4601,0 41.1232,-35.4398 24.4878,-67.4719 76.077,67.9223 24.4879,-42.3084 20.0134,20.2326 56.0636,18.0044 44.5012,-9.4111 31.5758,27.1014 76.0711,4.6048 176.6419,114.3792 100.5648,-30.1535 51.5833,-5.1974 24.4878,11.6335 20.0134,2.6787 31.5758,4.0774"
+             id="path11107" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#4fb37a;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+             d="m 1735.9465,-1635.383 76.0711,-211.9809 12.9254,0 11.5683,-24.9679 10.4601,0 41.1232,-62.2389 24.4878,6.5783 76.077,-28.8082 24.4879,92.019 20.0134,-14.7863 56.0636,24.7012 44.5012,-8.3325 31.5758,21.0564 76.0711,45.645 176.6419,8.9015 100.5648,66.6303 51.5833,8.6822 24.4878,-53.379 20.0134,66.2155 31.5758,6.8035 0,37.1881 -31.5758,-4.0774 -20.0134,-2.6787 -24.4878,-11.6335 -51.5833,5.1974 -100.5648,30.1535 -176.6419,-114.3792 -76.0711,-4.6048 -31.5758,-27.1014 -44.5012,9.4111 -56.0636,-18.0044 -20.0134,-20.2326 -24.4879,42.3084 -76.077,-67.9223 -24.4878,67.4719 -41.1232,35.4398 -10.4601,0 -11.5683,23.5692 -12.9254,0 -76.0711,131.791 z m 0,0"
+             id="path11109" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1630.9975 76.0711,20.7957 12.9254,0 11.5683,18.3184 10.4601,0 41.1232,6.0212 24.4878,-9.1325 76.077,-18.9645 24.4879,11.3669 20.0134,7.1353 56.0636,-7.8287 44.5012,0.2252 31.5758,12.0305 76.0711,-12.3209 176.6419,18.2355 100.5648,0.5867 51.5833,-24.0671 24.4878,-3.9529 20.0134,18.763 31.5758,-7.1769"
+             id="path11111" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1586.0518 76.0711,20.7483 12.9254,0 11.5683,3.3662 10.4601,0 41.1232,-6.1339 24.4878,-8.4688 76.077,0.6401 24.4879,1.8727 20.0134,14.6678 56.0636,-13.8914 44.5012,8.4451 31.5758,6.8153 76.0711,-21.7024 176.6419,10.5134 100.5648,0.1422 51.5833,-10.8038 24.4878,-2.2698 20.0134,3.5854 31.5758,13.447"
+             id="path11113" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#7d61b8;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+             d="m 1735.9465,-1630.9975 76.0711,20.7957 12.9254,0 11.5683,18.3184 10.4601,0 41.1232,6.0212 24.4878,-9.1325 76.077,-18.9645 24.4879,11.3669 20.0134,7.1353 56.0636,-7.8287 44.5012,0.2252 31.5758,12.0305 76.0711,-12.3209 176.6419,18.2355 100.5648,0.5867 51.5833,-24.0671 24.4878,-3.9529 20.0134,18.763 31.5758,-7.1769 0,35.8843 -31.5758,-13.447 -20.0134,-3.5855 -24.4878,2.2698 -51.5833,10.8038 -100.5648,-0.1421 -176.6419,-10.5134 -76.0711,21.7024 -31.5758,-6.8153 -44.5012,-8.4451 -56.0636,13.8914 -20.0134,-14.6678 -24.4879,-1.8727 -76.077,-0.6401 -24.4878,8.4688 -41.1232,6.1338 -10.4601,0 -11.5683,-3.3662 -12.9254,0 -76.0711,-20.7482 z m 0,0"
+             id="path11115" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1608.3706 76.0711,25.8213 12.9254,0 11.5683,-7.2539 10.4601,0 41.1232,-4.5041 24.4878,-6.8864 76.077,9.9978 24.4879,-6.5309 20.0134,-19.0948 56.0636,23.9544 44.5012,-14.7448 31.5758,5.5056 76.0711,-0.2015 176.6419,-3.6269 100.5648,9.3103 51.5833,-13.6544 24.4878,16.4932 20.0134,-29.2468 31.5758,10.466"
+             id="path11117" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1569.772 76.0711,8.8777 12.9254,0 11.5683,-7.8465 10.4601,0 41.1232,-2.9277 24.4878,-0.5333 76.077,5.1381 24.4879,0.4386 20.0134,-4.107 56.0636,9.0081 44.5012,-25.0093 31.5758,22.4669 76.0711,-2.898 176.6419,-8.4688 100.5648,1.0312 51.5833,6.1456 24.4878,-6.2227 20.0134,-1.7601 31.5758,8.4688"
+             id="path11119" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#97a33f;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+             d="m 1735.9465,-1608.3706 76.0711,25.8213 12.9254,0 11.5683,-7.2539 10.4601,0 41.1232,-4.5041 24.4878,-6.8864 76.077,9.9978 24.4879,-6.5309 20.0134,-19.0948 56.0636,23.9544 44.5012,-14.7448 31.5758,5.5056 76.0711,-0.2015 176.6419,-3.6269 100.5648,9.3103 51.5833,-13.6544 24.4878,16.4932 20.0134,-29.2468 31.5758,10.466 0,44.5961 -31.5758,-8.4688 -20.0134,1.7601 -24.4878,6.2227 -51.5833,-6.1456 -100.5648,-1.0312 -176.6419,8.4688 -76.0711,2.898 -31.5758,-22.4669 -44.5012,25.0093 -56.0636,-9.0081 -20.0134,4.107 -24.4879,-0.4386 -76.077,-5.1381 -24.4878,0.5333 -41.1232,2.9277 -10.4601,0 -11.5683,7.8465 -12.9254,0 -76.0711,-8.8777 z m 0,0"
+             id="path11121" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1610.3026 76.0711,28.1741 12.9254,0 11.5683,6.1219 10.4601,0 41.1232,-22.6032 24.4878,-3.704 76.077,-1.2683 24.4879,-3.3661 20.0134,-4.2493 56.0636,3.8581 44.5012,10.306 31.5758,11.7342 76.0711,-36.1568 176.6419,24.2152 100.5648,-16.665 51.5833,-8.1547 24.4878,20.0904 20.0134,-19.2726 31.5758,12.9551"
+             id="path11123" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1565.422 76.0711,-1.9972 12.9254,0 11.5683,2.412 10.4601,0 41.1232,-7.0287 24.4878,-12.2439 76.077,19.1896 24.4879,12.8662 20.0134,-16.4635 56.0636,-13.9626 44.5012,-3.9529 31.5758,15.9776 76.0711,-14.7804 176.6419,18.188 100.5648,-20.3571 51.5833,-7.7695 24.4878,13.2692 20.0134,-0.4919 31.5758,-8.214"
+             id="path11125" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b84a73;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+             d="m 1735.9465,-1610.3026 76.0711,28.1741 12.9254,0 11.5683,6.1219 10.4601,0 41.1232,-22.6032 24.4878,-3.704 76.077,-1.2683 24.4879,-3.3661 20.0134,-4.2493 56.0636,3.8581 44.5012,10.306 31.5758,11.7342 76.0711,-36.1568 176.6419,24.2152 100.5648,-16.665 51.5833,-8.1547 24.4878,20.0904 20.0134,-19.2726 31.5758,12.9551 0,17.5065 -31.5758,8.214 -20.0134,0.4919 -24.4878,-13.2692 -51.5833,7.7695 -100.5648,20.3571 -176.6419,-18.188 -76.0711,14.7804 -31.5758,-15.9776 -44.5012,3.9529 -56.0636,13.9626 -20.0134,16.4635 -24.4879,-12.8662 -76.077,-19.1896 -24.4878,12.2439 -41.1232,7.0287 -10.4601,0 -11.5683,-2.412 -12.9254,0 -76.0711,1.9972 z m 0,0"
+             id="path11127" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1590.7988 76.0711,-9.5356 12.9254,0 11.5683,-16.3094 10.4601,0 41.1232,-40.981 24.4878,-16.4812 76.077,-58.8313 24.4879,43.0315 20.0134,-28.3933 56.0636,5.4404 44.5012,-8.0362 31.5758,29.6735 76.0711,-26.7221 176.6419,12.8662 100.5648,50.6409 51.5833,-15.7049 24.4878,2.252 20.0134,-3.9529 31.5758,34.5864"
+             id="path11129" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#bdbdbd;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1575.0169 76.0711,2.7499 12.9254,0 11.5683,-8.4629 10.4601,0 41.1232,-28.5119 24.4878,7.3962 76.077,-68.9535 24.4879,22.7514 20.0134,7.2657 56.0636,2.9395 44.5012,-19.8949 31.5758,10.0275 76.0711,-20.2683 176.6419,61.8419 100.5648,-14.3656 51.5833,-13.1447 24.4878,-9.6956 20.0134,6.8154 31.5758,20.6653"
+             id="path11131" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b86335;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none"
+             d="m 1735.9465,-1590.7988 76.0711,-9.5356 12.9254,0 11.5683,-16.3094 10.4601,0 41.1232,-40.981 24.4878,-16.4812 76.077,-58.8313 24.4879,43.0315 20.0134,-28.3933 56.0636,5.4404 44.5012,-8.0362 31.5758,29.6735 76.0711,-26.7221 176.6419,12.8662 100.5648,50.6409 51.5833,-15.7049 24.4878,2.252 20.0134,-3.9529 31.5758,34.5864 0,21.3943 -31.5758,-20.6653 -20.0134,-6.8154 -24.4878,9.6956 -51.5833,13.1447 -100.5648,14.3656 -176.6419,-61.8419 -76.0711,20.2683 -31.5758,-10.0275 -44.5012,19.8949 -56.0636,-2.9395 -20.0134,-7.2657 -24.4879,-22.7514 -76.077,68.9535 -24.4878,-7.3962 -41.1232,28.5119 -10.4601,0 -11.5683,8.4629 -12.9254,0 -76.0711,-2.7499 z m 0,0"
+             id="path11133" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#4fb37a;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1609.9055 76.0711,-181.0689 12.9254,0 11.5683,-24.4937 10.4601,0 41.1232,-53.5805 24.4878,-19.3081 76.077,3.8165 24.4879,43.8197 20.0134,-0.2252 56.0636,22.0284 44.5012,-8.7651 31.5758,23.4803 76.0711,28.3459 176.6419,49.3787 100.5648,29.9816 51.5833,2.5187 24.4878,-26.4969 20.0134,40.0031 31.5758,5.5708"
+             id="path11135" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#7d61b8;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1609.7692 76.0711,20.772 12.9254,0 11.5683,11.5327 10.4601,0 41.1232,0.3023 24.4878,-8.8126 76.077,-9.8437 24.4879,7.005 20.0134,10.6023 56.0636,-10.6142 44.5012,3.9885 31.5758,9.6541 76.0711,-16.6828 176.6419,14.5611 100.5648,0.3734 51.5833,-17.7969 24.4878,-3.1766 20.0134,11.6039 31.5758,2.4831"
+             id="path11137" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#97a33f;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1589.9929 76.0711,17.9807 12.9254,0 11.5683,-7.5324 10.4601,0 41.1232,-3.7574 24.4878,-3.9173 76.077,7.728 24.4879,-3.2832 20.0134,-12.3091 56.0636,17.1865 44.5012,-19.5452 31.5758,13.3699 76.0711,-1.4283 176.6419,-5.8493 100.5648,5.4404 51.5833,-4.5396 24.4878,5.9916 20.0134,-16.6176 31.5758,9.583"
+             id="path11139" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#b84a73;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1589.1039 76.0711,14.1996 12.9254,0 11.5683,4.3204 10.4601,0 41.1232,-15.1775 24.4878,-7.7339 76.077,8.2495 24.4879,3.8166 20.0134,-9.6304 56.0636,-4.3144 44.5012,3.4906 31.5758,13.7907 76.0711,-26.1413 176.6419,21.4476 100.5648,-18.3836 51.5833,-7.9769 24.4878,16.8783 20.0134,-10.5608 31.5758,3.1054"
+             id="path11141" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#b86335;stroke-width:1.13786614;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+             d="m 1735.9465,-1583.059 76.0711,-3.7277 12.9254,0 11.5683,-12.7002 10.4601,0 41.1232,-35.3865 24.4878,-6.3116 76.077,-63.0567 24.4879,34.1893 20.0134,-13.1803 56.0636,4.427 44.5012,-12.961 31.5758,21.1335 76.0711,-23.8655 176.6419,32.9033 100.5648,23.4151 51.5833,-14.5374 24.4878,-3.2714 20.0134,1.0371 31.5758,28.1089"
+             id="path11143" />
         </g>
+        <flowRoot
+           transform="translate(-624.68703,-3468.7279)"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot12826-4"
+           xml:space="preserve"><flowRegion
+             id="flowRegion12828-4"><rect
+               style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="1586.6454"
+               x="1854.5269"
+               height="130.61574"
+               width="585.07202"
+               id="rect12830-0" /></flowRegion><flowPara
+             id="flowPara12834-8">Genome size</flowPara></flowRoot>        <flowRoot
+           transform="translate(139.89659,-3022.676)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605" /></flowRegion><flowPara
+             id="flowPara13607">40,000</flowPara></flowRoot>        <flowRoot
+           transform="translate(138.97548,-2965.3991)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-9"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-6"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-6" /></flowRegion><flowPara
+             id="flowPara13607-5">30,000</flowPara></flowRoot>        <flowRoot
+           transform="translate(141.26538,-2882.9628)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-1"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-8"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-1" /></flowRegion><flowPara
+             id="flowPara13607-4">20,000</flowPara></flowRoot>        <flowRoot
+           transform="translate(138.97548,-2743.279)"
+           style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot13601-5"
+           xml:space="preserve"><flowRegion
+             id="flowRegion13603-2"><rect
+               style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="999.5014"
+               x="1479.2744"
+               height="146.5535"
+               width="261.04843"
+               id="rect13605-8" /></flowRegion><flowPara
+             id="flowPara13607-2">10,000</flowPara></flowRoot>      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12826-7-2-9-7"
+         style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         transform="translate(-92.97572,-3253.6973)"><flowRegion
+           id="flowRegion12828-6-3-5-4"><rect
+             id="rect12830-4-0-1-7"
+             width="291.96497"
+             height="130.61577"
+             x="1854.5269"
+             y="1586.6454"
+             style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
+           id="flowPara12834-4-7-7-6">Genome inflation due to non-coding bases invasion</flowPara></flowRoot>      <g
+         transform="translate(-28.486168,-95.53756)"
+         id="g18059">
+        <flowRoot
+           transform="translate(867.86954,-3220.7137)"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot12826-1"
+           xml:space="preserve"><flowRegion
+             id="flowRegion12828-0"><rect
+               style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="1586.6454"
+               x="1854.5269"
+               height="231.19629"
+               width="80.772018"
+               id="rect12830-3" /></flowRegion><flowPara
+             style="font-style:italic;-inkscape-font-specification:Yanone Kaffeesatz Italic"
+             id="flowPara16377-8">sigma</flowPara><flowPara
+             id="flowPara18041"
+             style="text-align:start;text-anchor:start">0.0005</flowPara><flowPara
+             id="flowPara18043"
+             style="text-align:start;text-anchor:start">0.001</flowPara><flowPara
+             id="flowPara18045"
+             style="text-align:start;text-anchor:start">0.002</flowPara><flowPara
+             id="flowPara18047"
+             style="text-align:start;text-anchor:start">0.005</flowPara><flowPara
+             id="flowPara18049"
+             style="text-align:start;text-anchor:start">0.009</flowPara></flowRoot>        <circle
+           d="m 2715.8992,-1423.1736 c 0,7.0921 -5.7493,12.8414 -12.8413,12.8414 -7.0921,0 -12.8414,-5.7493 -12.8414,-12.8414 0,-7.0921 5.7493,-12.8413 12.8414,-12.8413 7.092,0 12.8413,5.7492 12.8413,12.8413 z"
+           style="fill:#50b47b;fill-opacity:0.39215686;stroke:none"
+           id="path17973"
+           cx="2703.0579"
+           cy="-1423.1736"
+           r="12.841337"
+           sodipodi:cx="2703.0579"
+           sodipodi:cy="-1423.1736"
+           sodipodi:rx="12.841337"
+           sodipodi:ry="12.841337" />
+        <circle
+           d="m 2716.4366,-1574.1848 c 0,7.0921 -5.7493,12.8413 -12.8414,12.8413 -7.0921,0 -12.8413,-5.7492 -12.8413,-12.8413 0,-7.0921 5.7492,-12.8414 12.8413,-12.8414 7.0921,0 12.8414,5.7493 12.8414,12.8414 z"
+           style="fill:#7f63b8;fill-opacity:0.39215686;stroke:none"
+           id="path17973-0"
+           cx="2703.5952"
+           cy="-1574.1848"
+           r="12.841337"
+           sodipodi:cx="2703.5952"
+           sodipodi:cy="-1574.1848"
+           sodipodi:rx="12.841337"
+           sodipodi:ry="12.841337" />
+        <circle
+           d="m 2715.9046,-1536.0396 c 0,7.0921 -5.7493,12.8414 -12.8414,12.8414 -7.092,0 -12.8413,-5.7493 -12.8413,-12.8414 0,-7.092 5.7493,-12.8413 12.8413,-12.8413 7.0921,0 12.8414,5.7493 12.8414,12.8413 z"
+           style="fill:#98a441;fill-opacity:0.39215686;stroke:none"
+           id="path17973-0-9"
+           cx="2703.0632"
+           cy="-1536.0396"
+           r="12.841337"
+           sodipodi:cx="2703.0632"
+           sodipodi:cy="-1536.0396"
+           sodipodi:rx="12.841337"
+           sodipodi:ry="12.841337" />
+        <circle
+           d="m 2715.2268,-1498.2396 c 0,7.0921 -5.7492,12.8413 -12.8413,12.8413 -7.0921,0 -12.8413,-5.7492 -12.8413,-12.8413 0,-7.0921 5.7492,-12.8414 12.8413,-12.8414 7.0921,0 12.8413,5.7493 12.8413,12.8414 z"
+           style="fill:#b94b75;fill-opacity:0.39215686;stroke:none"
+           id="path17973-0-5"
+           cx="2702.3855"
+           cy="-1498.2396"
+           r="12.841337"
+           sodipodi:cx="2702.3855"
+           sodipodi:cy="-1498.2396"
+           sodipodi:rx="12.841337"
+           sodipodi:ry="12.841337" />
+        <circle
+           d="m 2715.9458,-1462.1534 c 0,7.092 -5.7492,12.8413 -12.8413,12.8413 -7.0921,0 -12.8413,-5.7493 -12.8413,-12.8413 0,-7.0921 5.7492,-12.8414 12.8413,-12.8414 7.0921,0 12.8413,5.7493 12.8413,12.8414 z"
+           style="fill:#ba6437;fill-opacity:0.39215686;stroke:none"
+           id="path17973-0-0"
+           cx="2703.1045"
+           cy="-1462.1534"
+           r="12.841337"
+           sodipodi:cx="2703.1045"
+           sodipodi:cy="-1462.1534"
+           sodipodi:rx="12.841337"
+           sodipodi:ry="12.841337" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 2720.0487,-1612.7089 -39.1728,0 0,209.4126 118.7606,0 0,-209.0634 -20.3249,-0.1383"
+           id="path18057"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
       </g>
+      <g
+         transform="translate(5.0410302,-54.667146)"
+         id="g10599">
+        <path
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path9896"
+           d="m 1620.5787,-980.52317 958.6983,-0.0138 -4.8261,-17.05718 47.1939,37.52369 -46.9982,38.57953 4.6304,-17.01405 -958.7494,-0.0614 4.9389,17.0988 -51.6963,-38.392 51.5834,-37.94925 z"
+           style="fill:#969696;fill-opacity:0.19607843;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(251.20651,-2566.6695)"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot12826-5"
+           xml:space="preserve"><flowRegion
+             id="flowRegion12828-8"><rect
+               style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="1586.6454"
+               x="1854.5269"
+               height="130.61574"
+               width="585.07202"
+               id="rect12830-5" /></flowRegion><flowPara
+             id="flowPara16377-0">Slow environmental variations</flowPara></flowRoot>        <flowRoot
+           transform="translate(-340.73322,-2566.6695)"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowRoot12826-5-5"
+           xml:space="preserve"><flowRegion
+             id="flowRegion12828-8-5"><rect
+               style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+               y="1586.6454"
+               x="1854.5269"
+               height="130.61574"
+               width="585.07202"
+               id="rect12830-5-3" /></flowRegion><flowPara
+             id="flowPara16377-0-0">Fast environmental variations</flowPara></flowRoot>      </g>
     </g>
   </g>
 </svg>
